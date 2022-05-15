@@ -10,7 +10,7 @@ Code | Nucleotide
  10 | C
  11 | T
 
-## About file:
+## About files:
 - dna.py - Genes are represented by the string A, C, G, T convert to binary.
 - DNA-main.ipynb - Searching the DNA
 
